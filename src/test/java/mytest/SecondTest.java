@@ -1,4 +1,4 @@
-package Selenide2;
+package mytest;
 
 import org.junit.jupiter.api.Test;
 
